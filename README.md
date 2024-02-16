@@ -1,1 +1,2 @@
-# boikanyobaitshepi-BOISIL401_BCL2401_Group-A_Boikanyo-Silabel_SDF08
+Had difficulty loading the project onto GitHub from VScode.
+Sometimes the code would have trouble running when I tested changes.
